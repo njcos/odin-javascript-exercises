@@ -20,5 +20,6 @@ repeatString('hi', 1)
 repeatString('bye', 0)
 repeatString('goodbye', -1)
 repeatString('repeats the string a random amount of times', number)
+repeatString('', 10)
 // Do not edit below this line
 module.exports = repeatString;
