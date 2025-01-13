@@ -4,9 +4,10 @@ const repeatString = function(string, num) {
         hey += string 
     }
     return hey;
-
 };
 
 repeatString("hey", 3)
+repeatString('hello', 10)
+
 // Do not edit below this line
 module.exports = repeatString;
