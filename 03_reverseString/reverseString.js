@@ -15,5 +15,6 @@ const reverseString = function(string) {
 };
 reverseString("hello")
 reverseString("hello there")
+reverseString('123! abc! Hello, Odinite.')
 // Do not edit below this line
 module.exports = reverseString;
